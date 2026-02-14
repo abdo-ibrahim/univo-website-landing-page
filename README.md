@@ -1,6 +1,6 @@
 # Landing Page - Univo 🌐
 
-🔗 **Live Demo:** [[abdulrahman-ibrahim.me/univo-website-landing-page](http://abdulrahman-ibrahim.me/univo-website-landing-page/)](https://abdo-ibrahim.github.io/univo-website-landing-page)
+🔗 **Live Demo:** [https://abdo-ibrahim.github.io/univo-website-landing-page](https://abdo-ibrahim.github.io/univo-website-landing-page)
 
 ## 📝 Overview
 
