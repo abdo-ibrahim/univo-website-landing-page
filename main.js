@@ -56,7 +56,7 @@ window.addEventListener("scroll", () => {
 
 /* Start Latest Events */
 // Counter Down
-let eventDate = new Date("31 Dec 2023 11:59:59").getTime();
+let eventDate = new Date("27 Jul 2024 21:00:00").getTime();
 let Counter = setInterval(function () {
   let date = new Date().getTime();
   // Get The Diff between now and event time
